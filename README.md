@@ -1,2 +1,14 @@
-# vue-render-2
-终于搞懂了vue 的 render 函数（二）
+# vue-render2
+
+### 安装依赖
+```
+yarn install
+```
+
+### 运行项目
+```
+yarn run serve
+```
+
+
+
